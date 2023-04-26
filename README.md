@@ -1,7 +1,13 @@
 
 # Github Profile Finder 
 
+You can use it here : [Github Profile Finder](https://githubprofilefinder.cappelleaymeric.fr/)
+
 Github Profile Finder is a simple app to find Github user using React JS and Tailwind CSS + DaisyUI for UI Design.
+
+📌 Last update: 
+📌 Version: 1.0
+📌 Date: 26/04/2023
 
 
 
