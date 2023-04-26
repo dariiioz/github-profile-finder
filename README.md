@@ -13,7 +13,7 @@ Github Profile Finder is a simple app to find Github user using React JS and Tai
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/26320684/234520715-1f28deba-911c-49aa-917e-cb91faadaf9e.png)
 
 
 ## 🔗 Links
