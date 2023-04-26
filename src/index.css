@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    font-family: "Roboto Mono", monospace;
+    font-size: 2.5rem;
+}
+h2 {
+    font-family: "Raleway", sans-serif;
+}
+input[type="text"] {
+    font-family: "Raleway", sans-serif;
+}
+
+button {
+    font-family: "Raleway", sans-serif;
+}
+a {
+    font-family: "Raleway", sans-serif;
+}
+.imgeffect:hover {
+    /* glint effect on hover */
+    box-shadow: 0 0 10px #eee;
+    transition: 0.5s;
+    transform: scale(1.1);
+    border: 1px solid #eee;
+}
